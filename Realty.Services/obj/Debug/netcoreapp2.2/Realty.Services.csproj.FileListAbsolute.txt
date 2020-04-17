@@ -1,0 +1,8 @@
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\bin\Debug\netcoreapp2.2\Realty.Services.deps.json
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\bin\Debug\netcoreapp2.2\Realty.Services.dll
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\bin\Debug\netcoreapp2.2\Realty.Services.pdb
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\obj\Debug\netcoreapp2.2\Realty.Services.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\obj\Debug\netcoreapp2.2\Realty.Services.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\obj\Debug\netcoreapp2.2\Realty.Services.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\obj\Debug\netcoreapp2.2\Realty.Services.dll
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\obj\Debug\netcoreapp2.2\Realty.Services.pdb

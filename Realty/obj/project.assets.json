@@ -12091,23 +12091,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kevinalviola\\.nuget\\packages\\": {},
+    "C:\\Users\\kevin\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevinalviola\\Desktop\\Project\\Realty\\Realty\\Realty.csproj",
+      "projectUniqueName": "C:\\Users\\kevin\\Desktop\\Projects\\Realty\\Realty\\Realty.csproj",
       "projectName": "Realty",
-      "projectPath": "C:\\Users\\kevinalviola\\Desktop\\Project\\Realty\\Realty\\Realty.csproj",
-      "packagesPath": "C:\\Users\\kevinalviola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevinalviola\\Desktop\\Project\\Realty\\Realty\\obj\\",
+      "projectPath": "C:\\Users\\kevin\\Desktop\\Projects\\Realty\\Realty\\Realty.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kevin\\Desktop\\Projects\\Realty\\Realty\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kevinalviola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

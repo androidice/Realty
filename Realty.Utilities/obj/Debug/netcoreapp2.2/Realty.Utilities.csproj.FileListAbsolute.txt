@@ -1,0 +1,9 @@
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Utilities\bin\Debug\netcoreapp2.2\Realty.Utilities.deps.json
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Utilities\bin\Debug\netcoreapp2.2\Realty.Utilities.dll
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Utilities\bin\Debug\netcoreapp2.2\Realty.Utilities.pdb
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Utilities\obj\Debug\netcoreapp2.2\Realty.Utilities.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Utilities\obj\Debug\netcoreapp2.2\Realty.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Utilities\obj\Debug\netcoreapp2.2\Realty.Utilities.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Utilities\obj\Debug\netcoreapp2.2\Realty.Utilities.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Utilities\obj\Debug\netcoreapp2.2\Realty.Utilities.dll
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Utilities\obj\Debug\netcoreapp2.2\Realty.Utilities.pdb
