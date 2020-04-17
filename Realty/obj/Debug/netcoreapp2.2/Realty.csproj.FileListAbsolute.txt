@@ -62,3 +62,5 @@ C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Realty.Vie
 C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Realty.dll
 C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Realty.pdb
 C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Realty.csproj.CopyComplete
+C:\Users\kevin\Desktop\Projects\Realty\Realty\bin\Debug\netcoreapp2.2\Realty.Data.dll
+C:\Users\kevin\Desktop\Projects\Realty\Realty\bin\Debug\netcoreapp2.2\Realty.Data.pdb

@@ -6,3 +6,4 @@ C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\obj\Debug\netcoreapp2.2\R
 C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\obj\Debug\netcoreapp2.2\Realty.Services.AssemblyInfo.cs
 C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\obj\Debug\netcoreapp2.2\Realty.Services.dll
 C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\obj\Debug\netcoreapp2.2\Realty.Services.pdb
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Services\obj\Debug\netcoreapp2.2\Realty.Services.csprojAssemblyReference.cache

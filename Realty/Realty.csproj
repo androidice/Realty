@@ -14,8 +14,14 @@
 
 
   <ItemGroup>
+    <Folder Include="Data\" />
     <Folder Include="Infrastructure\" />
     <Folder Include="Scripts\" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\Realty.Data\Realty.Data.csproj" />
   </ItemGroup>
 
 </Project>
