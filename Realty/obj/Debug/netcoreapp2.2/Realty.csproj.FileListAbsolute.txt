@@ -46,7 +46,6 @@ C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Realty.Ass
 C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Realty.TagHelpers.input.cache
 C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Realty.TagHelpers.output.cache
 C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Realty.RazorCoreGenerate.cache
-C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
 C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
 C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
@@ -64,3 +63,10 @@ C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Realty.pdb
 C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Realty.csproj.CopyComplete
 C:\Users\kevin\Desktop\Projects\Realty\Realty\bin\Debug\netcoreapp2.2\Realty.Data.dll
 C:\Users\kevin\Desktop\Projects\Realty\Realty\bin\Debug\netcoreapp2.2\Realty.Data.pdb
+C:\Users\kevin\Desktop\Projects\Realty\Realty\bin\Debug\netcoreapp2.2\Realty.Services.dll
+C:\Users\kevin\Desktop\Projects\Realty\Realty\bin\Debug\netcoreapp2.2\Realty.Utilities.dll
+C:\Users\kevin\Desktop\Projects\Realty\Realty\bin\Debug\netcoreapp2.2\Realty.Services.pdb
+C:\Users\kevin\Desktop\Projects\Realty\Realty\bin\Debug\netcoreapp2.2\Realty.Utilities.pdb
+C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\BusinessManagement\Index.g.cshtml.cs
+C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\kevin\Desktop\Projects\Realty\Realty\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\BusinessManagement\BusinessRegistration.g.cshtml.cs

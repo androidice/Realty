@@ -1,0 +1,33 @@
+﻿@using Realty.Areas.Admin.Models
+@using Realty.Areas.Admin.Constants
+@using Realty.Constants
+
+@model BusinessInfoFormModel
+@{
+    ViewData["Title"] = "BusinessRegistration";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Business Registration</h1>
+
+@using (Html.BeginForm(Realty.Areas.Admin.Constants.ControllerActionConstants.SAVE_BUSINESS_REGISTRATION, Realty.Areas.Admin.Constants.ControllerActionConstants.BUSINESS_MANAGEMENT_CONTROLLER, new { area = AppAreas.Admin }, FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control", placeholder = "Business Name" })
+        @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Business Email" })
+        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Address)
+        @Html.TextAreaFor(m => m.Address, new { @class = "form-control", placeholder = "Business Address" })
+    </div>
+    @Html.HiddenFor(m => m.Id)
+
+    <button type="submit" class="btn btn-primary">Register</button>
+}

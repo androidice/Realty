@@ -13,6 +13,8 @@ using Microsoft.EntityFrameworkCore;
 using Realty.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Realty.Services.Interfaces;
+using Realty.Services;
 
 namespace Realty
 {
@@ -44,6 +46,10 @@ namespace Realty
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
+            /*dependency injection*/
+            services.AddTransient<IBusinessManagementService, BusinessManagementService>();
+            /*dependency injection*/
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
@@ -70,6 +76,11 @@ namespace Realty
 
             app.UseMvc(routes =>
             {
+                routes.MapRoute(
+                    name: "areas",
+                    template: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+                  );
+
                 routes.MapRoute(
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");

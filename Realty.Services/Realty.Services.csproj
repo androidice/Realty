@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Realty.Data\Realty.Data.csproj" />
+    <ProjectReference Include="..\Realty.Utilities\Realty.Utilities.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -7,5 +7,7 @@ namespace Realty.Data
 {
     public class AppUser : IdentityUser
     {
+        public string PreferedLanguage { get; set; } = string.Empty;
+        public bool Active { get; set; } = true;
     }
 }

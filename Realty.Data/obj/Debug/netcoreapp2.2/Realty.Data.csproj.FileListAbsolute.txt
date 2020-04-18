@@ -6,7 +6,7 @@ C:\Users\kevin\Desktop\Projects\Realty\Realty.Data\obj\Debug\netcoreapp2.2\Realt
 C:\Users\kevin\Desktop\Projects\Realty\Realty.Data\obj\Debug\netcoreapp2.2\Realty.Data.AssemblyInfo.cs
 C:\Users\kevin\Desktop\Projects\Realty\Realty.Data\obj\Debug\netcoreapp2.2\Realty.Data.dll
 C:\Users\kevin\Desktop\Projects\Realty\Realty.Data\obj\Debug\netcoreapp2.2\Realty.Data.pdb
-C:\Users\kevin\Desktop\Projects\Realty\Realty.Data\obj\Debug\netcoreapp2.2\Realty.Data.csprojAssemblyReference.cache
 C:\Users\kevin\Desktop\Projects\Realty\Realty.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\kevin\Desktop\Projects\Realty\Realty.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
 C:\Users\kevin\Desktop\Projects\Realty\Realty.Data\obj\Debug\netcoreapp2.2\Realty.Data.csproj.CopyComplete
+C:\Users\kevin\Desktop\Projects\Realty\Realty.Data\obj\Debug\netcoreapp2.2\Realty.Data.csprojAssemblyReference.cache

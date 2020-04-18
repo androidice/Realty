@@ -23,8 +23,13 @@ using Realty.Models;
 
 #line default
 #line hidden
+#line 3 "C:\Users\kevin\Desktop\Projects\Realty\Realty\Views\_ViewImports.cshtml"
+using Realty.Constants;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d8ddb6bffa5a9b264bf8f89038bf03c234083fd3", @"/Views/Home/Privacy.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c620f0bfd42cd77c5c9ecd3cd58aa78d85b49f9f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e1626e55850ea2814210516d4e3bf03ae780215f", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Privacy : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
